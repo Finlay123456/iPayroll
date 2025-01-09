@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Apr 08 22:58:30 EDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-018e-c0ca-f5fb-000006c0fcf8 
+on database directory /Users/finlay/Desktop/SE2203/iPAYROLL 2/iPAYROLLDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@12edcd21 
+Loaded from file:/Users/finlay/Downloads/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.2+13-58
+user.dir=/Users/finlay/Desktop/SE2203/iPAYROLL 2
+os.name=Mac OS X
+os.arch=x86_64
+os.version=14.3.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
